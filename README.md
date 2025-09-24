@@ -185,7 +185,6 @@ func main() {
 	}
 
 	fmt.Println("🚦✨ Great DevOps isn’t just a job; it’s a lifestyle.")
-	fmt.Println("❤️ Created by Ahmad Hassan - DevOps Engineer (@opsven)")
 }
 
 	fmt.Println("🎯 AI-First Cloud Native DevOps Engineer Profile Loaded Successfully!")
