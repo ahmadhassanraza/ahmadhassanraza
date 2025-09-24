@@ -26,15 +26,14 @@
 
 <div align="center">
 
-## 🛠 About
+<!-- ## 🛠 About
 
 </div>
 
-<!-- ![alt text](image.png) -->
  <img width="100%" src="./line.gif">
 
 ![alt text](image-2.png)
-<img width="100%" src="./line.gif"> 
+<img width="100%" src="./line.gif">-->
 
 <div align="center">
 
