@@ -200,6 +200,8 @@ func main() {
 
 ## 💼 Technical Expertise | DevOps Tech Stack & Skills
 
+<div align="center">  
+
 | **Category** | **Tools** |
 |--------------|-----------|
 | 🐳 **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
@@ -214,6 +216,8 @@ func main() {
 | 🔧 **Version Control & Collaboration** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) |
 | 🏗️ **Infrastructure & Architecture** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Networking](https://img.shields.io/badge/Networking-0078D7?style=flat-square&logo=cisco&logoColor=white) |
 | 🔐 **Security & Compliance** | ![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white) ![SSL/TLS](https://img.shields.io/badge/SSL/TLS-003366?style=flat-square&logo=letsencrypt&logoColor=white) ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-006600?style=flat-square&logo=linux&logoColor=white) ![Firewalls](https://img.shields.io/badge/Firewalls-FF0000?style=flat-square&logo=fortinet&logoColor=white) |
+
+</div>
 
 ## 🏆 Featured Projects & Case Studies
 
