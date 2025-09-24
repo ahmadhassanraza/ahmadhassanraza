@@ -35,72 +35,6 @@
 ![alt text](image-2.png)
 <img width="100%" src="./line.gif"> -->
 
-``` GO
-package main
-
-import (
-	"fmt"
-)
-
-var (
-	isPipelineHealthy   = true
-	infraEfficiency     = 85
-	isInfrastructureLive = true
-)
-
-func debugPipeline() {
-	fmt.Println("🔍 Debugging pipeline... checking nodes, pods, and configs.")
-}
-
-func monitorMetrics() {
-	fmt.Println("📊 Monitoring Pods, Nodes, and Cluster health...")
-}
-
-func scalePods() {
-	fmt.Println("📦 Scaling Pods dynamically based on traffic needs...")
-}
-
-func applyTerraform() {
-	fmt.Println("🛠️ Applying Terraform for consistent infrastructure...")
-}
-
-func deployServices() {
-	fmt.Println("🚢 Deploying services with rolling updates...")
-}
-
-func main() {
-	// DevOps Life: Automate, Monitor, Optimize 🚀
-	if isPipelineHealthy {
-		fmt.Println("✨ Build Pipeline is green! Time to optimize Deployment efficiency.")
-
-		// Continuous optimization: because production deserves the best!
-		for infraEfficiency < 100 {
-			infraEfficiency++
-			fmt.Printf("Enhancing... Infra efficiency now at %d%% 🌐📈\n", infraEfficiency)
-		}
-		fmt.Println("🏆 EKS Cluster is healthy and workloads are stable. 🚀")
-	} else {
-		fmt.Println("⚠️ Node issues detected! Let’s troubleshoot and fix this ASAP. 🔍")
-		debugPipeline()
-	}
-
-	// The DevOps Lifecycle with Kubernetes 🔄
-	for isInfrastructureLive {
-		monitorMetrics()
-		scalePods()
-		applyTerraform()
-		deployServices()
-		fmt.Println("Repeat! Because in Kubernetes, the loop is the process. 🔄")
-
-		// break here for demo; remove to keep infinite loop like infra reality
-		break
-	}
-
-	fmt.Println("🚦✨ Great DevOps isn’t just a job; it’s a lifestyle.")
-	fmt.Println("❤️ Created by Ahmad Hassan - DevOps Engineer (@opsven)")
-}
-```
-
 <div align="center">
 
 ## 🎯 Professional Summary
@@ -196,8 +130,65 @@ func main() {
 		},
 	}
 
-	fmt.Println("🎯 AI Native DevOps Engineer Profile Loaded Successfully!")
+var (
+	isPipelineHealthy   = true
+	infraEfficiency     = 85
+	isInfrastructureLive = true
+)
 
+func debugPipeline() {
+	fmt.Println("🔍 Debugging pipeline... checking nodes, pods, and configs.")
+}
+
+func monitorMetrics() {
+	fmt.Println("📊 Monitoring Pods, Nodes, and Cluster health...")
+}
+
+func scalePods() {
+	fmt.Println("📦 Scaling Pods dynamically based on traffic needs...")
+}
+
+func applyTerraform() {
+	fmt.Println("🛠️ Applying Terraform for consistent infrastructure...")
+}
+
+func deployServices() {
+	fmt.Println("🚢 Deploying services with rolling updates...")
+}
+
+func main() {
+	// DevOps Life: Automate, Monitor, Optimize 🚀
+	if isPipelineHealthy {
+		fmt.Println("✨ Build Pipeline is green! Time to optimize Deployment efficiency.")
+
+		// Continuous optimization: because production deserves the best!
+		for infraEfficiency < 100 {
+			infraEfficiency++
+			fmt.Printf("Enhancing... Infra efficiency now at %d%% 🌐📈\n", infraEfficiency)
+		}
+		fmt.Println("🏆 EKS Cluster is healthy and workloads are stable. 🚀")
+	} else {
+		fmt.Println("⚠️ Node issues detected! Let’s troubleshoot and fix this ASAP. 🔍")
+		debugPipeline()
+	}
+
+	// The DevOps Lifecycle with Kubernetes 🔄
+	for isInfrastructureLive {
+		monitorMetrics()
+		scalePods()
+		applyTerraform()
+		deployServices()
+		fmt.Println("Repeat! Because in Kubernetes, the loop is the process. 🔄")
+
+		// break here for demo; remove to keep infinite loop like infra reality
+		break
+	}
+
+	fmt.Println("🚦✨ Great DevOps isn’t just a job; it’s a lifestyle.")
+	fmt.Println("❤️ Created by Ahmad Hassan - DevOps Engineer (@opsven)")
+}
+
+	fmt.Println("🎯 AI-First Cloud Native DevOps Engineer Profile Loaded Successfully!")
 	fmt.Println("Contact Info:", ahmad.GetContactInfo())
 	fmt.Println("Availability:", ahmad.GetAvailability())
 }
